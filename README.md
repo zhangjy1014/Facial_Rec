@@ -2,7 +2,7 @@
 
 
 
-平台Pycharm，基于python、腾讯云人脸识别API
+平台Pycharm，基于python、腾讯云人脸识别API.
 
 需要用到的包tencentcloud-sdk、base64、numpy、cv2、json等
 
